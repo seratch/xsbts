@@ -1,5 +1,9 @@
 # xsbts
 
+## What's this?
+
+A quite easy way to launch several versions of sbt. 
+
 ## Setup
 
 ```sh
